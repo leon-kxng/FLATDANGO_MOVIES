@@ -1,0 +1,24 @@
+@import url("bootstrap.css");
+body{
+    background-color: rgb(91, 186, 201);
+    margin: 25px;
+}
+.card ul{
+    list-style: none;
+}
+
+.ay{
+    display: flex;
+    flex-direction: row;
+
+}
+.ay p{
+    font-size: 23px;
+    font-weight: bolder;
+    padding:  10px 50px ;
+}
+.ay H2{
+    font-size: 23px;
+    font-weight: bolder;
+    padding:  10px 80px ;
+}
