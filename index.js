@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // Get movies data from the local JSON server
-let baseURL = "https://my-json-server.typicode.com/John-Mwau/Week3-Code-Challenge/films";
+let baseURL = "https://my-json-server.typicode.com/leon-kxng/FLATDANGO_MOVIES/films";
 
 function getFilms() {
     fetch(baseURL)
